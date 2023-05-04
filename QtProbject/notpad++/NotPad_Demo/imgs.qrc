@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imgs/title.png</file>
+        <file>imgs/about.png</file>
+        <file>imgs/b.png</file>
+        <file>imgs/chehui.png</file>
+        <file>imgs/copy.png</file>
+        <file>imgs/cut.png</file>
+        <file>imgs/i.png</file>
+        <file>imgs/new_file.png</file>
+        <file>imgs/open_file.png</file>
+        <file>imgs/past.png</file>
+        <file>imgs/quxiaochehui.png</file>
+        <file>imgs/save_as.png</file>
+        <file>imgs/t.png</file>
+        <file>imgs/u.png</file>
+        <file>imgs/print.png</file>
+        <file>imgs/chakan.png</file>
+        <file>imgs/big.png</file>
+        <file>imgs/small.png</file>
+        <file>imgs/pring01.png</file>
+        <file>imgs/new .png</file>
+        <file>imgs/exit.png</file>
+        <file>imgs/save.png</file>
+        <file>imgs/zhuangtai01.png</file>
+        <file>imgs/t01.png</file>
+        <file>imgs/--.png</file>
+        <file>imgs/++.png</file>
+        <file>imgs/t02.png</file>
+        <file>imgs/---.png</file>
+        <file>imgs/+++.png</file>
+        <file>imgs/Bb.png</file>
+        <file>imgs/bbb.png</file>
+        <file>imgs/jianqie.png</file>
+    </qresource>
+</RCC>
