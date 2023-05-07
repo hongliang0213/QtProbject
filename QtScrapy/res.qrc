@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/flatwhite.css</file>
+        <file>res/lightblue.css</file>
+        <file>res/psblack.css</file>
+        <file>res/close.png</file>
+        <file>res/min.png</file>
+        <file>res/min2.png</file>
+        <file>res/min3.png</file>
+        <file>res/close2.png</file>
+        <file>res/min5.png</file>
+        <file>res/infor.png</file>
+        <file>res/icon.png</file>
+    </qresource>
+</RCC>
